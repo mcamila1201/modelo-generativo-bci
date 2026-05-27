@@ -1,4 +1,4 @@
-"""EEG.py
+EEG.py
 Generación, procesamiento y clasificación de señales EEG sintéticas.
 
 Resumen general:
@@ -35,4 +35,3 @@ Notas:
     - La partición de entrenamiento/validación/prueba se hace antes de la normalización.
     - La normalización de validación y prueba reutiliza estadísticas de entrenamiento.
     - El script permite ejecutar múltiples semillas para medir estabilidad.
-"""
